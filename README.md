@@ -1,9 +1,9 @@
-# Hi 👋, I'm <Ayesha>  
+# Hi 👋, I'm <AyeshaRafa>  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
 
-## 👨💻 About Me  
+
 ## 👨‍💻 About Me
 
 I'm a passionate **CSE student** who enjoys building modern web applications and exploring software testing. I love working with **JavaScript**, **TypeScript**, **React**, and **Node.js**, while continuously improving my skills with **Java, SQL, Git, and GitHub**.

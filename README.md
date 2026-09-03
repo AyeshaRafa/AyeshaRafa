@@ -24,7 +24,6 @@ Currently, I'm focused on growing my knowledge in **full-stack development, Play
 </p>
 
 ### **Tools & Others**
-### **Tools & Others**
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
